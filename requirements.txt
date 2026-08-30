@@ -1,0 +1,4 @@
+pandas==3.0.5
+plotly==7.0.0
+streamlit==1.62.0
+rich==15.0.0
